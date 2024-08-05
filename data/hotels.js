@@ -884,7 +884,7 @@ const hotels = {
             id: uuid(),
             name: "RiverTree Duplex- Riverside Plantation TreehouseAC",
             category: "Tiny Homes",
-            image: "https://a0.muscache.com/im/pictures/c59d4481-f48a-43db-ade2-1df5689b725f.jpg?im_w=720",
+            image: "https://a0.muscache.com/im/pictures/c59d4481-f48a-43db-ade2-1df5689b725f.jpg?im_w=1200",
             address: "Kottathara",
             city: "Wayanad",
             state: "Kerala",
